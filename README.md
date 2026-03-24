@@ -4,7 +4,25 @@
 
 Electronic sound works exploring texture, time and synthetic environments.
 
-Ambient / drone synth project.
+Ambient / Drone / Synth project
+
+</p>
+
+<p align="center">
+
+<a href="https://dronealt.bandcamp.com/music">
+<img src="https://img.shields.io/badge/BANDCAMP-LISTEN-black?style=for-the-badge">
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AMBIENT-grey">
+<img src="https://img.shields.io/badge/DRONE-black">
+<img src="https://img.shields.io/badge/SYNTH-darkblue">
+<img src="https://img.shields.io/badge/EXPERIMENTAL-2d2d2d">
+<img src="https://img.shields.io/badge/ELECTRONIC-0f172a">
 
 </p>
 
@@ -25,7 +43,11 @@ Ambient / drone synth project.
 </p>
 
 <p align="center">
-https://dronealt.bandcamp.com/track/insert-idum-bre
+
+<a href="https://dronealt.bandcamp.com/track/insert-idum-bre">
+<img src="https://img.shields.io/badge/LISTEN-BANDCAMP-grey?style=flat-square">
+</a>
+
 </p>
 
 ---
@@ -43,7 +65,11 @@ https://dronealt.bandcamp.com/track/insert-idum-bre
 </p>
 
 <p align="center">
-https://dronealt.bandcamp.com/album/simulations
+
+<a href="https://dronealt.bandcamp.com/album/simulations">
+<img src="https://img.shields.io/badge/LISTEN-BANDCAMP-grey?style=flat-square">
+</a>
+
 </p>
 
 ---
@@ -61,7 +87,27 @@ https://dronealt.bandcamp.com/album/simulations
 </p>
 
 <p align="center">
-https://dronealt.bandcamp.com/album/matter-that-could-not-be-transformed
+
+<a href="https://dronealt.bandcamp.com/album/matter-that-could-not-be-transformed">
+<img src="https://img.shields.io/badge/LISTEN-BANDCAMP-grey?style=flat-square">
+</a>
+
+</p>
+
+---
+
+## Project Characteristics
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Hardware-Synthesizers-black">
+
+<img src="https://img.shields.io/badge/Production-Ableton-grey">
+
+<img src="https://img.shields.io/badge/Production-Pro%20Tools-purple">
+
+<img src="https://img.shields.io/badge/Focus-Sound%20Design-darkblue">
+
 </p>
 
 ---
@@ -72,13 +118,12 @@ All music composed and produced by the artist.
 
 ---
 
-## Listen
-
-https://dronealt.bandcamp.com/music
-
----
-
 ## Status
 
-Ongoing project  
-New material in development
+<p align="center">
+
+<img src="https://img.shields.io/badge/STATUS-ONGOING-black">
+
+<img src="https://img.shields.io/badge/NEW-MATERIAL%20IN%20PROGRESS-grey">
+
+</p>
