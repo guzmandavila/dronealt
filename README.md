@@ -27,5 +27,4 @@ https://dronealt.bandcamp.com/album/simulations
 
 Listen:
 https://dronealt.bandcamp.com/track/insert-idum-bre
-
 </p>
